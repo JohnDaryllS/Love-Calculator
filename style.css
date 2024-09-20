@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: #b14949;
+}
+
+div {
+    background-color: antiquewhite;
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+input {
+    width: 40%;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    color: palevioletred;
+}
+
+button {
+    background-color: blueviolet;
+    width: 20%;
+    height: 50px;
+    border: none;
+    color: whitesmoke;
+    font-size: 20px;
+    border-radius: 10px;
+}

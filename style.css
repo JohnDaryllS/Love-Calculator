@@ -35,8 +35,8 @@ p {
     font-size: 30px;
     color: palevioletred;
     margin: 0;
-    padding-bottom: 20px;
     text-align: center;
+    padding: 10px 40px;
 }
 
 button {
